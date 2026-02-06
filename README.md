@@ -9,6 +9,8 @@
 
 ## ⚡ Executive Summary
 
+>“This documents assumes AI assistants are here to stay. The question is not adoption, but survivability of the operating model.”
+
 We are issuing this report because we detect a systemic failure unfolding in real-time. While the market celebrates the "AI Productivity Boom," the objective delivery metrics on the ground tell a completely different story. We are not witnessing a revolution in value; we are witnessing the inflation of a bubble—a **Subprime Code Bubble**.
 
 This crisis is not a result of "user error." It is the direct result of a collision between two structural flaws:
