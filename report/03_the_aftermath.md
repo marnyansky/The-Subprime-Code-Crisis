@@ -157,7 +157,7 @@ And as every biologist knows: a parasite that kills its host does not survive fo
 
 **The Pivot:**
 1.  **Restrain the PR:** Stop selling "magic." Start selling "power tools that require safety protocols."
-2.  **Focus on Survival:** Your goal should shift from "User Adoption" to **"Client Survival."** Help us build the governance layers, the testing frameworks, and the educational programs needed to manage this power.
+2.  **Focus on Sustainability:** Your goal should shift from "User Adoption" to **"Client Sustainability."** Help us build the governance layers, the testing frameworks, and the educational programs needed to manage this power.
 3.  **Balance the Narrative:** Be realistic. Acknowledge the risks. Be a partner in engineering integrity, not just a supplier of raw speed.
 
 We are all in this ecosystem together. If it crashes, it crashes for everyone.
